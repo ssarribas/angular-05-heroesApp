@@ -1,0 +1,6 @@
+.container {
+    margin: 10px;
+}
+.toolbar-spacer {
+    flex: 1 1 auto;
+}
